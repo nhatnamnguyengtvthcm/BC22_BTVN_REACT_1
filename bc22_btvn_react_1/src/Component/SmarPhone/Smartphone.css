@@ -1,0 +1,16 @@
+.phoneList {
+    padding: 100px 0;
+    /* display: flex; */
+    justify-content: space-around ; 
+    
+}
+
+.cus-card {
+    margin: 20px 0;
+}
+
+.text-title {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
